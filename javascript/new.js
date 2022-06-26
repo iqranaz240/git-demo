@@ -1,0 +1,1 @@
+document.getElementById("par").style.color="blue";
