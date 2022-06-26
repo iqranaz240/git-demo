@@ -8,3 +8,10 @@ git commit -m "first commit"
 //git branch -M main
 git remote add origin https://github.com/iqranaz240/git-demo.git
 git push -u origin master
+
+git branch newBranch
+git checkout newBranch
+
+git merge newBranch
+
+git clone https://github.com/iqranaz240/git-demo.git
